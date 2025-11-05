@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Россия</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #d52b1e;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #0039a6;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Россия</h1>
+        <p>Страна с богатой историей и культурой</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Общая информация</h2>
+            <p>Россия — крупнейшая страна в мире, занимая площадь более 17 миллионов квадратных километров. Столицей России является Москва, а официальным языком — русский.</p>
+        </section>
+
+        <section>
+            <h2>География</h2>
+            <p>Российская Федерация раскинулась от Восточной Европы до Северной Азии. На её территории находятся Уральские горы, Байкал, Кавказ, тундра и тайга.</p>
+        </section>
+
+        <section>
+            <h2>Культура</h2>
+            <p>Россия славится своими традициями, литературой, музыкой и искусством. Великие писатели, такие как Пушкин, Толстой и Достоевский, оказали огромное влияние на мировую культуру.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025. Информация о России.</p>
+    </footer>
+</body>
+</html>
